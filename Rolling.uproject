@@ -22,10 +22,6 @@
 				"Win64",
 				"Android"
 			]
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
