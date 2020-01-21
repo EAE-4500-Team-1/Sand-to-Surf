@@ -22,18 +22,6 @@
 				"Win64",
 				"Android"
 			]
-<<<<<<< HEAD
-=======
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
->>>>>>> 83d71386132eea1a9ec9194f92564ca008dcae98
 		}
 	]
 }
