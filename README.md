@@ -1,3 +1,8 @@
-#Sand To Surf
+<<<<<<< HEAD
+# Rolling
 
-An Unreal Engine based fantasy sandboarding game, this game is the capstone project of a team from the University of Utah EAE program for the year 2019-2020.
+Developed with Unreal Engine 4
+=======
+# Surf2Sand
+The Unreal Version of Surf2Sand
+>>>>>>> 66f00e82735943a012fd14bc3e20435139eb7717
